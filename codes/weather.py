@@ -12,7 +12,7 @@ Created on Sat Oct  3 20:31:41 2020
 import requests, json 
 
 # Enter your API key here 
-api_key = "1470b945342092a803a3767067ab4abc"
+api_key = "1470b945342092a803a3767067a--" #changed
 
 # base_url variable to store url 
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
