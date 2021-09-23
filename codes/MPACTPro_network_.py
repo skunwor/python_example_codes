@@ -9,7 +9,7 @@ import numpy as np
 import networkx as nx
 #from nxviz import CircosPlot
 
-mcleod = pd.read_csv('C:/Users/sujitk/OneDrive - Tom McLeod Software, Inc/market_pairs.csv')
+mcleod = pd.read_csv('data.csv')
 mcleod = mcleod.dropna()
 
 
